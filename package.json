@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabhatdubeyy/node-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learning",
+    "basic",
+    "concept",
+    "javascript"
+  ],
+  "author": "Prabhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabhatdubeyy/node-js/issues"
+  },
+  "homepage": "https://github.com/prabhatdubeyy/node-js#readme",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "colors": "^1.4.0"
+  }
+}
